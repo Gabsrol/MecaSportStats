@@ -13,7 +13,7 @@ The main objective of this project is to use space occupation models to temporal
 
 ### Publication
 
-[**Article**](http://www.sloansportsconference.com/wp-content/uploads/2020/02/Rolland_characterization_of_Space_and_Time-Dependece_of_3-Point_Shots_in_Basketball.pdf)
+[**Article**](https://www.researchgate.net/profile/Gabin_Rolland/publication/350486601_Characterization_of_Space_and_Time-Dependence_of_3-Point_Shots_in_Basketball/links/6062e710a6fdccbfea160eda/Characterization-of-Space-and-Time-Dependence-of-3-Point-Shots-in-Basketball.pdf?_sg%5B0%5D=HqqR-1ovZNg4iu4hb5SubdDz6f1O6ySOcK_JM3G76rdK7-UGOkPz27AQYGrZgGBWbaOHdDLW1EmbqDmbBqPMUQ.n4Nbnc2WD0vJ-gZ9HQbDJV9HEbWfZwRbhXeIunsA4ib4klVSeCKwezp28Rm5IY4KQ4HG3ILFNk96Gq4IsZRycw&_sg%5B1%5D=CmPqduvwqPfoq-shhDxNtIw2jloyWyG-sCWFRHjJoCdgJ6kYEH3Fg9mwggCQa5C3OHZbv9h0ldZxVtbk7X9YGZOlPP9VBkAjpJz0DShl2g-r.n4Nbnc2WD0vJ-gZ9HQbDJV9HEbWfZwRbhXeIunsA4ib4klVSeCKwezp28Rm5IY4KQ4HG3ILFNk96Gq4IsZRycw&_iepl=)
 
 [**MIT Sloan Sports Analytics Conference 2020 Poster**](https://github.com/AmigoCap/MecaSportStats/blob/master/MIT_Sloan_sports_Analytics_Conference_Poster.pdf)
 
